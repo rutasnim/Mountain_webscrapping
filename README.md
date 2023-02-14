@@ -9,4 +9,8 @@ Python Liberaries: Pandas, Numpy, Seaborn, Beautifulsoup, requests
 - Name of the still unconquered mountains
 <img width="325" alt="image" src="https://user-images.githubusercontent.com/89811897/218615210-1343fb3e-7940-403b-9e1e-698489f547ea.png">
 
-- 
+- The first high mountain was conquered in the year: 1930
+- By 1950s, all 8000 meters mountains had been climbed starting with Mt. Annapurna in 1950
+- 1960s were the most popular years for successfully conquering most of the high mountains
+<img width="414" alt="image" src="https://user-images.githubusercontent.com/89811897/218616108-9b553e69-3697-4fe4-adc0-f07c1d5957cb.png">
+
