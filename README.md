@@ -6,3 +6,7 @@
 Python Liberaries: Pandas, Numpy, Seaborn, Beautifulsoup, requests
 
 ## Interesting Insights:
+- Name of the still unconquered mountains
+<img width="325" alt="image" src="https://user-images.githubusercontent.com/89811897/218615210-1343fb3e-7940-403b-9e1e-698489f547ea.png">
+
+- 
